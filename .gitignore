@@ -52,3 +52,4 @@ Mkfile.old
 dkms.conf
 /metallali_pcb/metallali-backups
 metallali_pcb/keyautoplace.log
+/metallali_pcb/production
